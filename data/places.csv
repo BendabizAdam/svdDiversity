@@ -1,101 +1,101 @@
 0,Hotel Meridien,Hotel
-1,Hotel Sheraton,Hotel
-2,Hotel Phoenix,Hotel
-3,Hotel Les pins d'or,Hotel
-4,Hotel President,Hotel
-5,Hotel Beach house,Hotel
-6,Hotel le petit chez soi  (ex Beau Rivage),Hotel
-7,Hotel Mon Château,Hotel
-8, Residence Ayoun,Residence
-9,Hotel Cherchel,Hotel
-10,Hotel IBIS,Hotel
-11,Hotel El yamama,Hotel
-12,Hotel La colombe,Hotel
-13,Residence GUEFFAZ,Residence
-14,Hotel SHEMS,Hotel
-15,Hotel Maghreb el Arabi 3 ,Hotel
-16,Hotel TIMGAD,Hotel
-17,Hotel Montparnasse,Hotel
-18,Hotel Previllege,Hotel
-19,Restaurant Pergola,Restaurant
-20,Restaurant Le Titanic,Restaurant
-21,Restaurant Pyramides,Restaurant
-22,Restaurant La Corrida,Restaurant
-23,Restaurant Mon Village,Restaurant
-24,Restaurant Martinez,Restaurant
-25,Restaurant La Sirène,Restaurant
-26,Restaurant Le Galion,Restaurant
-27,Restaurant Sevilla ,Restaurant
-28,Restaurant Croissant d'Or ,Restaurant
-29,Restaurant Miramar,Restaurant
-30,Restaurant Taverne Alsacienne,Restaurant
-31,Restauant Lounge Le Baalabek,Restauant
-32,Restaurant Saint Tropez,Restaurant
-33,Restaurant Le Ramier,Restaurant
-34,Restaurant Le Merle Blanc,Restaurant
-35,Restaurant El Faro,Restaurant
-36,Restaurant La marquise,Restaurant
-37,Cinema  murjajo,Cinema
-38,Cinema EL Marhaba,Cinema
-39,Cinema Tefna,Cinema
-40,Cinema el Fath,Cinema
-41,Cinema Es Sadda,Cinema
-42,Cinema Maghreb,Cinema
-43,Cinematheque,Cinema
-44,Parc d'attraction Djanet el Ahlem ,Parc
-45,Parc Aquatique New Beach,Parc
-46,Parc d'attraction Manege Miramar,Parc
-47,Parc d'attraction Kiddy Garden ,Parc
-48,Parc d'attraction Sweet City,Parc
-49,Plage Madegh,Plage
-50,Plage Cap blanc,Plage
-51,Plage Corales,Plage
-52,Eden Plage ,Plage
-53,Plage BOMO,Plage
-54,Plage Pinika,Plage
-55,Plage La Grande,Plage
-56,Paradis Plage,Plage
-57,Plage Les Dunes,Plage
-58,Plage Etoile ,Plage
-59,Plage Beau sejour,Plage
-60,Plage Saint Roch,Plage
-61,Plage El Mordjane ,Plage
-62,Plage Saint Germain,Plage
-63,Plage Coste,Plage
-64,Plage Claire Fontaine,Plage
-65,Plage EL Andalous 1,Plage
-66,Plage EL Andalous 2,Plage
-67,Centre commercial Palais d'Or,Centre commercial
-68,Centre commercial Ritaj,Centre commercial
-69,Centre commercial Khaouaja,Centre commercial
-70,Centre commercial El Anik,Centre commercial
-71,Centre commercial Liper City,Centre commercial
-72,Centre commercial Ardis,Centre commercial
-73,Centre commercial Kiteal ,Centre commercial
-74,Centre commenrcial Bayazit Market ,Centre commenrcial
-75,Jardin Akid Lotfi,Jardin
-76,Espace vert entree canastel,Espace
-77,Jardin Publique Ain Turk,Jardin
-78,Jardin el othmania,Jardin
-79,  Espace vert Place d'Arme ,Espace
-80,Jardin les Palmiers,Jardin
-81,Jardin grand terre,Jardin
-82,Jardin yaghmorasen,Jardin
-83,Jardin petit bois castors,Jardin
-84,Jardin la Roserie,Jardin
-85,Jardin HLM,Jardin
-86,centre culturel français,Centre de culture
-87,Palais de la Culture,Centre de culture
-88,Centre de culture Pierre Claverie ,Centre de culture
-89,Centre de culture Emir Abdelkader,Centre de culture
-90,Centre de culture Ibn Mahrez,Centre de culture
-91,Centre de culture  Ibntachefine (michelet),Centre de culture
-92,Bibliotheque Cathedrale,Bibliotheque
-93,Bibliotheque es seddikia,Bibliotheque
-94,Bibliotheque Le petit lecteur ,Bibliotheque
-95,Theatre de Verdure,Theatre
-96,Theatre Regional,Theatre
-97,Musee d'art Moderne,Musee
-98,Musee Ahmed Zabana,Musee
-99,Musee el Moujahid,Musee
-100,Centre Commercial & de Loisirs Es-Senia,Centre commercial
+1,Hotel Les pins d'or,Hotel
+2,Hotel Beach house,Hotel
+3,Hotel Sheraton,Hotel
+4, Residence Ayoun,Residence
+5,Hotel IBIS,Hotel
+6,Hotel El yamama,Hotel
+7,Hotel SHEMS,Hotel
+8,Residence GUEFFAZ,Residence
+9,Hotel TIMGAD,Hotel
+10,Restaurant Mon Village,Restaurant
+11,Restaurant Le Titanic,Restaurant
+12,Restaurant La Corrida,Restaurant
+13,Restaurant Le Galion,Restaurant
+14,Restaurant Sevilla ,Restaurant
+15,Restaurant Croissant d'Or ,Restaurant
+16,Restaurant Saint Tropez,Restaurant
+17,Restaurant Le Ramier,Restaurant
+18,Restaurant La marquise,Restaurant
+19,Cinema  murjajo,Cinema
+20,Cinema EL Marhaba,Cinema
+21,Cinema Tefna,Cinema
+22,Cinema el Fath,Cinema
+23,Cinema Maghreb,Cinema
+24,Cinematheque,Cinema
+25,Parc Aquatique New Beach,Parc
+26,Plage Coste,Plage
+27,Parc d'attraction Kiddy Garden ,Parc
+28,Plage Madegh,Plage
+29,Plage Cap blanc,Plage
+30,Eden Plage ,Plage
+31,Plage BOMO,Plage
+32,Plage Pinika,Plage
+33,Plage La Grande,Plage
+34,Paradis Plage,Plage
+35,Plage Etoile ,Plage
+36,Plage Beau sejour,Plage
+37,Plage El Mordjane ,Plage
+38,Plage EL Andalous 1,Plage
+39,Centre commercial Palais d'Or,Centre Commercial
+40,Centre commercial Ritaj,Centre Commercial
+41,Centre commercial El Anik,Centre Commercial
+42,Centre commercial Ardis,Centre Commercial
+43,Centre commercial Kiteal ,Centre Commercial
+44,Jardin HLM,Jardin
+45,Jardin Akid Lotfi,Jardin
+46,Espace vert entree canastel,Espace
+47,Jardin el othmania,Jardin
+48,  Espace vert Place d'Arme ,Espace
+49,Jardin les Palmiers,Jardin
+50,Jardin grand terre,Jardin
+51,Jardin yaghmorasen,Jardin
+52,Jardin petit bois castors,Jardin
+53,Jardin la Roserie,Jardin
+54,Palais de la Culture,Centre de culture
+55,Centre de culture Emir Abdelkader,Centre de culture
+56,Centre de culture Ibn Mahrez,Centre de culture
+57,Centre de culture  Ibntachefine (michelet),Centre de culture
+58,Bibliotheque es seddikia,Bibliotheque
+59,Bibliotheque Le petit lecteur ,Bibliotheque
+60,Theatre de Verdure,Theatre
+61,Theatre Regional,Theatre
+62,Musee d'art Moderne,Musee
+63,Musee Ahmed Zabana,Musee
+64,Musee el Moujahid,Musee
+65,Hotel La colombe,Hotel
+66,Hotel Maghreb el Arabi 3 ,Hotel
+67,Hotel Montparnasse,Hotel
+68,Hotel Previllege,Hotel
+69,Restaurant Pergola,Restaurant
+70,Restaurant Pyramides,Restaurant
+71,Restaurant Martinez,Restaurant
+72,Restaurant La Sirène,Restaurant
+73,Hotel le petit chez soi  (ex Beau Rivage),Hotel
+74,Restaurant Miramar,Restaurant
+75,Restaurant Taverne Alsacienne,Restaurant
+76,Restauant Lounge Le Baalabek,Restaurant
+77,Restaurant Le Merle Blanc,Restaurant
+78,Restaurant El Faro,Restaurant
+79,Cinema Es Sadda,Cinema
+80,Parc d'attraction Djanet el Ahlem ,Parc
+81,Parc d'attraction Manege Miramar,Parc
+82,Parc d'attraction Sweet City,Parc
+83,Plage Corales,Plage
+84,Hotel Phoenix,Hotel
+85,Hotel President,Hotel
+86,Hotel Mon Château,Hotel
+87,Hotel Cherchel,Hotel
+88,Plage Les Dunes,Plage
+89,Plage Saint Roch,Plage
+90,Plage Saint Germain,Plage
+91,Plage Claire Fontaine,Plage
+92,Plage EL Andalous 2,Plage
+93,Centre commercial Khaouaja,Centre commercial
+94,Centre commercial Liper City,Centre Commercial
+95,Centre commenrcial Bayazit Market ,Centre Commercial
+96,Jardin Publique Ain Turk,Jardin
+97,centre culturel français,Centre de culture
+98,Centre de culture Pierre Claverie ,Centre de culture
+99,Centre Commercial & de Loisirs Es-Senia,Centre Commercial
+100,Bibliotheque Cathedrale,Bibliotheque
