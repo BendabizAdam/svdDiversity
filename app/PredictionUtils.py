@@ -72,6 +72,7 @@ mf = MF(R, K=20, alpha=0.001, beta=0.01, iterations=5)
 
 def predict_movie_and_rating(user_id):
     r = mf.full_matrix()
+    print("factorized R matrix : ", r)
     if user_id in ratings_filtered.user_id.unique():
 
         # List of movies that the user has seen
